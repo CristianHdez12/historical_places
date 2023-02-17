@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373636669609",
+    "project_id": "learn-526b2",
+    "storage_bucket": "learn-526b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373636669609:android:529d93445223f42baa09b8",
+        "android_client_info": {
+          "package_name": "com.historicalplaces.historical_places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373636669609-u6dua6a39lkcksgv8ej7b32b1vnoq3s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGrsQGwZJusYPOG73XhTqIr7AN-6phHxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373636669609-u6dua6a39lkcksgv8ej7b32b1vnoq3s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
